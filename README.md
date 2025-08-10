@@ -85,9 +85,8 @@ The **Handsman Threads** Salesforce CRM project exemplifies how to leverage Sale
 Thanks to the SmartBridge Virtual Internship team, mentors, and trainers for guiding the development and deployment of this project. Every feature was thoroughly tested and documented to meet the project scope and quality standards.
 
 
-## 🔗 Demo & Repository
-
-- **Demo Video**: [Handsman Threads Walkthrough](https://drive.google.com/file/d/1NjvJLgaEhVkG0Fc8DngHlxesRifa5wIS/view?usp=sharing&t=5)  
+## 🔗 Repository
+  
 - **GitHub Repository**: [Ch‑harini11/HandsmenThreadsProject](https://github.com/Ch-harini11/HandsmenThreadsProject/)
 
 🙏 Huge thanks to @SmartBridge, @Amarender Katkam, @Sridevi Sira, and @Yudhisther Yadav for providing this incredible learning opportunity to students across India!

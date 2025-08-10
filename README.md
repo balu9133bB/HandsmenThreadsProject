@@ -87,7 +87,7 @@ Thanks to the SmartBridge Virtual Internship team, mentors, and trainers for gui
 
 ## 🔗 Repository
   
-- **GitHub Repository**: [Ch‑harini11/HandsmenThreadsProject](https://github.com/Ch-harini11/HandsmenThreadsProject/)
+- **GitHub Repository**: [Ch‑harini11/HandsmenThreadsProject](https://github.com/balu9133bB/HandsmenThreadsProject)
 
 🙏 Huge thanks to @SmartBridge, @Amarender Katkam, @Sridevi Sira, and @Yudhisther Yadav for providing this incredible learning opportunity to students across India!
 To everyone still exploring opportunities – keep going, keep growing! 🚀
